@@ -24,7 +24,7 @@
 - **Perfil:** Mariane está no último ano da faculdade integral, conciliando suas últimas matérias com o estágio obrigatório e extremamente rigoroso com prazos. Portanto, Mariane criou hábitos com relação a limpeza e organização, que otimizassem ao máximo sua vida.
 
 - **Expectativas:** Mariane busca um aplicativo que simplifique a tarefa de manter o espaço limpo para evitar distrações e estresse adicionais. Ela deseja um sistema eficaz de atribuição de tarefas que seja flexível o suficiente para se adequar à sua agenda apertada e também para que outros moradores entendam e contribuam com a mesma.
-- 
+ 
 - **Atividades:** Por ter mais experiência, comunicação assertiva e também ser responsável pela locação do imóvel utilizado para ser república, Mariane se considera apta para iniciar reuniões sobre organização, agilizar a distribuição de tarefas ofertada pelo app além de acompanhar e montorar a realização das tarefas.
 
 ## Persona 4: Milena, estudante de matemática, 21 anos e também mora na cidade desde à infância. Também optou por morar em repúblicas para ter mais autonomia com seu espaço.
