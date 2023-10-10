@@ -1,15 +1,15 @@
-> Identifique o produto que será construído. Para isso, nomeie-o da seguinte forma: imagine o produto em uma caixa, qual nome estaria 
-> escrito nela?
-# ToDoZ
+CURSO: Sistemas para Internet
 
-# Visão do Produto
-> Ter uma visão clara do produto é essencial para entender como as primeiras peças do quebra-cabeça do seu negócio se encaixarão. Essa
-> visão deve capturar a essência do valor que seu negócio oferece e transmitir uma mensagem clara e cativante para seus clientes. 
-> Utilize o seguinte modelo para criar a visão do seu produto:
+DISCIPLINA: DESENVOLVIMENTO DE APLICAÇÕES DISTRIBUÍDAS
 
-> Para [o nome do cliente final], cujo [o problema que precisa ser resolvido]. O [o nome do produto] é [a categoria do produto] que [o benefício-chave, razão para adquiri-lo]. Diferentemente de [alternativa da concorrência], o nosso produto [a diferença-chave].
+SEMESTRE: Quarto Eixo / 2023
 
-Para freelancers que trabalham em diversos projetos, cujo desafio é gerenciar tarefas, priorizar atividades, manter o foco e medir o custo de cada projeto com precisão. O ToDoZ é um software de gerenciamento de tarefas e tempo baseado na técnica de pomodoro e método de Eisenhower, que melhora a concentração, aumenta a produtividade e permite um melhor planejamento financeiro. Diferentemente de outras opções no mercado, nosso produto oferece uma solução completa e eficiente para o dia a dia do freelancer.
+ALUNA: CAROLINA DOLACIO
+
+
+CleanHub é um aplicativo voltado para o gerenciamento da limpeza em espaços coletivos com a proposta de criar um senso de responsabilidade, atribuição justa de tarefas, comunicação clara, lembretes e notificações, resolução de conflitos e transparência. Visando espaços coletivos como locais de trabalho, moradias, dentre outros, o aplicativo aposta em benefícios relacionados a cobranças indiretas, atribuições previamente acordadas, reforço positivo, consenso entre realidade e expectativa com relação a limpeza dos espaços, além do aumento da saúde mental, bem estar e motivação proporcinados principalmente no pós pandemia, onde o homeoffice se naturalizou.
+
+Diferentes de outros aplicativos de gestão, o CleanHub nasce com uma proposta única, prática, clara, intuitiva e personalizável, incentivando o usuário a criar melhores hábitos através de tecnicas de adesão como reforço positivo, reconhecimento público, sistemas de pontuação, senso de comunidade e importância da higiene e limpeza na saúde mental.
 
 
 ## Etapa 1: Requisitos do produto
