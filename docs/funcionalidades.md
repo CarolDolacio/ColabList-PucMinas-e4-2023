@@ -30,7 +30,7 @@ Todos os colaboradores terão as mesmas permissões
 | Relatório de Tempo por tarefa | Sim |
 | Acompanhamento de tarefas de todos os moradores| Sim |
 | Avaliação de Pontuação | Sim |
-| Definições das rotinas de limpeza | Sim |
+| Definições das rotinas de limpeza | Sim | 
 
 
 [Retorna](../README.md)
