@@ -4,7 +4,7 @@ DISCIPLINA: DESENVOLVIMENTO DE APLICAÇÕES DISTRIBUÍDAS
 
 SEMESTRE: Quarto Eixo / 2023
 
-ALUNA: CAROLINA DOLACIO
+ALUNA: Carolina Dolacio
 
 
 CleanHub é um aplicativo voltado para o gerenciamento da limpeza em espaços coletivos com a proposta de criar um senso de responsabilidade, atribuição justa de tarefas, comunicação clara, lembretes e notificações, resolução de conflitos e transparência. Visando espaços coletivos como locais de trabalho, moradias, dentre outros, o aplicativo aposta em benefícios relacionados a cobranças indiretas, atribuições previamente acordadas, reforço positivo, consenso entre realidade e expectativa com relação a limpeza dos espaços, além do aumento da saúde mental, bem estar e motivação proporcinados principalmente no pós pandemia, onde o homeoffice se naturalizou.
