@@ -8,7 +8,7 @@
 
 > Coloque as funcionalidades priorizadas em uma tabela conforme o exemplo a seguir.
 
-**Roadmap de Produto - Sprints de duração de 1 Mês:**
+**Roadmap de Produto - Sprints de duração de 1 Mês:
 
 |Sprint 1 | Funcionalidade                     | Persona       | Priorização  | Justificativa                                                                                                                                                                                                                                                               |
 |---------|-----------------------------------|---------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -17,9 +17,3 @@
 |                        | Integração com Google Calendar | TODOS | Must have    | Permitirá a Todos visualizar tarefas e compromissos em ambas as plataformas para um planejamento eficiente. |
 |                        | Criar conta ou efetivar login com gmail | TODOS| Must have  |  Permitirá a Todos criar conta com a conta do gmail ou efetivar login, através de uma API   |
 
-                                                                                                             |
-|---------|-----------------------------|---------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------|
-
-|                        | Comunicação com Freelancers  | Carlos | Could have   | A comunicação integrada com os freelancers também pode ser adiada para versões futuras, considerando que Carlos já terá um MVP com funcionalidades essenciais para gerenciar sua equipe e projetos |
-
-[Retorna](../README.md)
