@@ -1,9 +1,6 @@
 # Problemas
 
-1. Dificuldade em identificar, organizar, atribuir e gestionar tarefas. 
-2. Dificuldade na comunicação, resoluções de conflitos e diferenças, conciência do espaço como um espaço coletivo.
-3. Necessidade de aprimorar a gestão do tempo
-4. Dificuldade para manter uma lógica de organização rotativa justa e útil.
+A dificuldade de consenso, notificação e colaboração encontrada em calendários individuais pode startar a ideia do ColabList, que vem com uma proposta simplista e prática que encontra boas resolutivas nas dificuldades de organização em eventos conjuntos.
 
 
 [Retorna](../README.md)
