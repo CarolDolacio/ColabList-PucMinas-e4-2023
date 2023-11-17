@@ -17,3 +17,4 @@
 |                        | Integração com Google Calendar | TODOS | Must have    | Permitirá a Todos visualizar tarefas e compromissos em ambas as plataformas para um planejamento eficiente. |
 |                        | Criar conta ou efetivar login com gmail | TODOS| Must have  |  Permitirá a Todos criar conta com a conta do gmail ou efetivar login, através de uma API   |
 
+[Retorna](../README.md)
