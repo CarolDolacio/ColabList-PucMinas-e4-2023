@@ -1,4 +1,4 @@
-# C
+# Priorização das Funcionalidades:
 
 > Priorize as funcionaliades do produto utilizando o método MoSCoW com as categorias de priorização do MoSCoW:
 > - Must have (Deve ter): Funcionalidades essenciais e obrigatórias que atendem a necessidades críticas das personas.
