@@ -7,9 +7,8 @@ SEMESTRE: Quarto Eixo / 2023
 ALUNA: Carolina Dolacio
 
 
-CleanHub é um aplicativo voltado para o gerenciamento da limpeza em espaços coletivos com a proposta de criar um senso de responsabilidade, atribuição justa de tarefas, comunicação clara, lembretes e notificações, resolução de conflitos e transparência. Visando espaços coletivos como locais de trabalho, moradias, dentre outros, o aplicativo aposta em benefícios relacionados a cobranças indiretas, atribuições previamente acordadas, reforço positivo, consenso entre realidade e expectativa com relação a limpeza dos espaços, além do aumento da saúde mental, bem estar e motivação proporcinados principalmente no pós pandemia, onde o homeoffice se naturalizou.
+ColabList é um aplicativo voltado para o gerenciamento de tarefas a partir de uma lista colaborativa.
 
-Diferentes de outros aplicativos de gestão, o CleanHub nasce com uma proposta única, prática, clara, intuitiva e personalizável, incentivando o usuário a criar melhores hábitos através de tecnicas de adesão como reforço positivo, reconhecimento público, sistemas de pontuação, senso de comunidade e importância da higiene e limpeza na saúde mental.
 
 
 ## Etapa 1: Requisitos do produto
